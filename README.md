@@ -1,2 +1,5 @@
 # GlimpseShare
 A dynamic web application that allows users to upload images and GIFs, generating shareable media links that remain active for a few hours. Perfect for temporary visual communication and fleeting moments of fun!
+
+## Statement of Purpose:
+Currently still in techstack planning phase. The main purpose of this project to make something interesting and useful for other people while learning new stacks/skills/technologies like backend frameworks, cloud and storage providers, api route development, authentication (maybe? if you're logged in, you get more storage perhaps?) and more while keeping development costs as low as possible.
