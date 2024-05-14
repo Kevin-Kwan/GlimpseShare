@@ -14,4 +14,4 @@ Currently still in techstack planning phase. The main purpose of this project to
 
 #### Database: MySQL or MongoDB
 
-#### Storage Buckets: Still researching for free options.
+#### Storage Buckets: Still researching for free options. Some options: Amazon S3...
